@@ -11,7 +11,7 @@ Ronnehag Fredrik Rönnehag
 
 ## TO RUN
 
-This project uses (Yarn)[https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable] as the package manager
+This project uses [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable) as the package manager
 
 - If you dont have Yarn
   `npm install --global yarn`
