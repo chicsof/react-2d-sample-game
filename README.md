@@ -1,15 +1,26 @@
 ## React.js memory game
 
-Game is built using React.js.
-
 - As of now there is one difficulty setting: 10 cards.
 - Counting amount of clicks until you win.
 - Can reset the game and play again after won.
 - Basic styling done without any CSS library.
 - Cards flip is made using ReactCardFlip.
 
-The game is a hobby project to practise React as well as algorithms and game logic.
+## TO RUN
 
-## Demo
+This project uses (Yarn)[https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable] as the package manager
 
-https://ronnehag.github.io/reactjs-memory-game/#/
+- If you dont have Yarn
+  `npm install --global yarn`
+
+- To get dependancies
+  `yarn install`
+
+- To run locally
+  `yarn start`
+
+- Use the following if your machine returns envoled errors on yarn start
+  `export NODE_OPTIONS=--openssl-legacy-provider`
+
+- To produce build assets run
+  `yarn run build`
