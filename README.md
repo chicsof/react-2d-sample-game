@@ -1,3 +1,6 @@
+Repository forked from: 
+Ronnehag Fredrik Rönnehag
+
 ## React.js memory game
 
 - As of now there is one difficulty setting: 10 cards.
