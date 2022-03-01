@@ -11,19 +11,14 @@ Ronnehag Fredrik Rönnehag
 
 ## TO RUN
 
-This project uses [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable) as the package manager
-
-- If you dont have Yarn
-  `npm install --global yarn`
-
 - To get dependancies
-  `yarn install`
+  `npm i`
 
 - To run locally
-  `yarn start`
+  `npm start`
 
 - Use the following if your machine returns envoled errors on yarn start
   `export NODE_OPTIONS=--openssl-legacy-provider`
 
 - To produce build assets run
-  `yarn run build`
+  `npm run build`
